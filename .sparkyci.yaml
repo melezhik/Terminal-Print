@@ -1,0 +1,4 @@
+init:
+  script: |
+    sudo apk add ncurses
+    
